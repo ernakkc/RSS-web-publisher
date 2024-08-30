@@ -1,0 +1,14 @@
+[4520:2548:0831/001207.959:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.114 (not a warning)
+[4520:2548:0831/001208.044:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[4520:2548:0831/001218.774:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5154
+[4520:2548:0831/001218.950:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[4520:2548:0831/001220.572:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[4520:2548:0831/001220.593:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[4520:2548:0831/001221.078:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45185
+[4520:2548:0831/001221.336:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[4520:2548:0831/001221.424:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747169
+[4520:2548:0831/001221.646:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7794
+[4520:2548:0831/001222.289:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[4520:2548:0831/001222.542:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[4520:2548:0831/001233.786:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68665978
+[4520:2548:0831/002934.125:WARNING:sad_tab.cc(255)] Tab Killed: 
