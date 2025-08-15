@@ -45,7 +45,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        gemini_api_key = "AIzaSyCdu0wQPtqzA4KOgs8r6Q70qjwAalsv9gQ"
+        gemini_api_key = "your-key-here"
         genai.configure(api_key=gemini_api_key)
         self.ai = genai.GenerativeModel('gemini-1.5-flash')
         
